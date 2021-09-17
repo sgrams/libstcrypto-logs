@@ -1,0 +1,5427 @@
+¬
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+F [benchmark_sc_algorithms] BEGIN
+A [CHACHA20] BEGIN
+R [00] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [00] END (0x0000000000000000) (0x0000000030000010)
+R [01] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [01] END (0x00000000000f4240) (0x0000000030000010)
+R [02] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [02] END (0x0000000000000000) (0x0000000030000010)
+R [03] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [03] END (0x0000000000000000) (0x0000000030000010)
+R [04] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [04] END (0x00000000000f4240) (0x0000000030000010)
+R [05] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [05] END (0x0000000000000000) (0x0000000030000010)
+R [06] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [06] END (0x0000000000000000) (0x0000000030000010)
+R [07] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [07] END (0x00000000000f4240) (0x0000000030000010)
+R [08] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [08] END (0x0000000000000000) (0x0000000030000010)
+R [09] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [09] END (0x0000000000000000) (0x0000000030000010)
+R [0a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0a] END (0x00000000000f4240) (0x0000000030000010)
+R [0b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0b] END (0x0000000000000000) (0x0000000030000010)
+R [0c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0c] END (0x0000000000000000) (0x0000000030000010)
+R [0d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0d] END (0x00000000000f4240) (0x0000000030000010)
+R [0e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0e] END (0x0000000000000000) (0x0000000030000010)
+R [0f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0f] END (0x0000000000000000) (0x0000000030000010)
+R [10] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [10] END (0x00000000000f4240) (0x0000000030000010)
+R [11] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [11] END (0x0000000000000000) (0x0000000030000010)
+R [12] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [12] END (0x0000000000000000) (0x0000000030000010)
+R [13] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [13] END (0x00000000000f4240) (0x0000000030000010)
+R [14] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [14] END (0x0000000000000000) (0x0000000030000010)
+R [15] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [15] END (0x0000000000000000) (0x0000000030000010)
+R [16] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [16] END (0x00000000000f4240) (0x0000000030000010)
+R [17] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [17] END (0x0000000000000000) (0x0000000030000010)
+R [18] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [18] END (0x0000000000000000) (0x0000000030000010)
+R [19] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [19] END (0x00000000000f4240) (0x0000000030000010)
+R [1a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1a] END (0x0000000000000000) (0x0000000030000010)
+R [1b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1b] END (0x0000000000000000) (0x0000000030000010)
+R [1c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1c] END (0x00000000000f4240) (0x0000000030000010)
+R [1d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1d] END (0x0000000000000000) (0x0000000030000010)
+R [1e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1e] END (0x0000000000000000) (0x0000000030000010)
+R [1f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1f] END (0x00000000000f4240) (0x0000000030000010)
+R [20] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [20] END (0x0000000000000000) (0x0000000030000010)
+R [21] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [21] END (0x0000000000000000) (0x0000000030000010)
+R [22] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [22] END (0x00000000000f4240) (0x0000000030000010)
+R [23] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [23] END (0x0000000000000000) (0x0000000030000010)
+R [24] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [24] END (0x0000000000000000) (0x0000000030000010)
+R [25] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [25] END (0x0000000000000000) (0x0000000030000010)
+R [26] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [26] END (0x0000000000000000) (0x0000000030000010)
+R [27] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [27] END (0x0000000000000000) (0x0000000030000010)
+R [28] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [28] END (0x0000000000000000) (0x0000000030000010)
+R [29] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [29] END (0x0000000000000000) (0x0000000030000010)
+R [2a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2a] END (0x0000000000000000) (0x0000000030000010)
+R [2b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2b] END (0x0000000000000000) (0x0000000030000010)
+R [2c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2c] END (0x0000000000000000) (0x0000000030000010)
+R [2d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2d] END (0x0000000000000000) (0x0000000030000010)
+R [2e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2e] END (0x0000000000000000) (0x0000000030000010)
+R [2f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2f] END (0x0000000000000000) (0x0000000030000010)
+R [30] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [30] END (0x0000000000000000) (0x0000000030000010)
+R [31] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [31] END (0x0000000000000000) (0x0000000030000010)
+R [32] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [32] END (0x0000000000000000) (0x0000000030000010)
+R [33] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [33] END (0x0000000000000000) (0x0000000030000010)
+R [34] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [34] END (0x0000000000000000) (0x0000000030000010)
+R [35] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [35] END (0x0000000000000000) (0x0000000030000010)
+R [36] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [36] END (0x0000000000000000) (0x0000000030000010)
+R [37] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [37] END (0x0000000000000000) (0x0000000030000010)
+R [38] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [38] END (0x0000000000000000) (0x0000000030000010)
+R [39] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [39] END (0x0000000000000000) (0x0000000030000010)
+R [3a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3a] END (0x0000000000000000) (0x0000000030000010)
+R [3b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3b] END (0x0000000000000000) (0x0000000030000010)
+R [3c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3c] END (0x0000000000000000) (0x0000000030000010)
+R [3d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3d] END (0x0000000000000000) (0x0000000030000010)
+R [3e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3e] END (0x0000000000000000) (0x0000000030000010)
+R [3f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3f] END (0x0000000000000000) (0x0000000030000010)
+R [40] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [40] END (0x0000000000000000) (0x0000000030000010)
+R [41] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [41] END (0x0000000000000000) (0x0000000030000010)
+R [42] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [42] END (0x00000000000f4240) (0x0000000030000010)
+R [43] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [43] END (0x0000000000000000) (0x0000000030000010)
+R [44] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [44] END (0x0000000000000000) (0x0000000030000010)
+R [45] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [45] END (0x00000000000f4240) (0x0000000030000010)
+R [46] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [46] END (0x0000000000000000) (0x0000000030000010)
+R [47] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [47] END (0x0000000000000000) (0x0000000030000010)
+R [48] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [48] END (0x00000000000f4240) (0x0000000030000010)
+R [49] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [49] END (0x0000000000000000) (0x0000000030000010)
+R [4a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4a] END (0x0000000000000000) (0x0000000030000010)
+R [4b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4b] END (0x00000000000f4240) (0x0000000030000010)
+R [4c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4c] END (0x0000000000000000) (0x0000000030000010)
+R [4d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4d] END (0x0000000000000000) (0x0000000030000010)
+R [4e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4e] END (0x00000000000f4240) (0x0000000030000010)
+R [4f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4f] END (0x0000000000000000) (0x0000000030000010)
+R [50] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [50] END (0x0000000000000000) (0x0000000030000010)
+R [51] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [51] END (0x00000000000f4240) (0x0000000030000010)
+R [52] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [52] END (0x0000000000000000) (0x0000000030000010)
+R [53] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [53] END (0x0000000000000000) (0x0000000030000010)
+R [54] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [54] END (0x00000000000f4240) (0x0000000030000010)
+R [55] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [55] END (0x0000000000000000) (0x0000000030000010)
+R [56] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [56] END (0x0000000000000000) (0x0000000030000010)
+R [57] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [57] END (0x00000000000f4240) (0x0000000030000010)
+R [58] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [58] END (0x0000000000000000) (0x0000000030000010)
+R [59] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [59] END (0x0000000000000000) (0x0000000030000010)
+R [5a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5a] END (0x00000000000f4240) (0x0000000030000010)
+R [5b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5b] END (0x0000000000000000) (0x0000000030000010)
+R [5c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5c] END (0x0000000000000000) (0x0000000030000010)
+R [5d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5d] END (0x00000000000f4240) (0x0000000030000010)
+R [5e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5e] END (0x0000000000000000) (0x0000000030000010)
+R [5f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5f] END (0x0000000000000000) (0x0000000030000010)
+R [60] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [60] END (0x00000000000f4240) (0x0000000030000010)
+R [61] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [61] END (0x0000000000000000) (0x0000000030000010)
+R [62] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [62] END (0x0000000000000000) (0x0000000030000010)
+R [63] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [63] END (0x00000000000f4240) (0x0000000030000010)
+A [CHACHA20] END
+A [GRAIN128A] BEGIN
+R [00] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [00] END (0x0000000001ba8140) (0x0000000030000010)
+R [01] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [01] END (0x0000000001ba8140) (0x0000000030000010)
+R [02] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [02] END (0x0000000001ba8140) (0x0000000030000010)
+R [03] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [03] END (0x0000000001ba8140) (0x0000000030000010)
+R [04] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [04] END (0x0000000001ba8140) (0x0000000030000010)
+R [05] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [05] END (0x0000000001ba8140) (0x0000000030000010)
+R [06] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [06] END (0x0000000001ab3f00) (0x0000000030000010)
+R [07] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [07] END (0x0000000001ba8140) (0x0000000030000010)
+R [08] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [08] END (0x0000000001ba8140) (0x0000000030000010)
+R [09] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [09] END (0x0000000001ba8140) (0x0000000030000010)
+R [0a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0a] END (0x0000000001ba8140) (0x0000000030000010)
+R [0b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0b] END (0x0000000001ba8140) (0x0000000030000010)
+R [0c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0c] END (0x0000000001ba8140) (0x0000000030000010)
+R [0d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0d] END (0x0000000001ba8140) (0x0000000030000010)
+R [0e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0e] END (0x0000000001ba8140) (0x0000000030000010)
+R [0f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0f] END (0x0000000001ba8140) (0x0000000030000010)
+R [10] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [10] END (0x0000000001ba8140) (0x0000000030000010)
+R [11] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [11] END (0x0000000001ba8140) (0x0000000030000010)
+R [12] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [12] END (0x0000000001ba8140) (0x0000000030000010)
+R [13] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [13] END (0x0000000001ba8140) (0x0000000030000010)
+R [14] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [14] END (0x0000000001ab3f00) (0x0000000030000010)
+R [15] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [15] END (0x0000000001ba8140) (0x0000000030000010)
+R [16] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [16] END (0x0000000001ba8140) (0x0000000030000010)
+R [17] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [17] END (0x0000000001ba8140) (0x0000000030000010)
+R [18] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [18] END (0x0000000001ba8140) (0x0000000030000010)
+R [19] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [19] END (0x0000000001ba8140) (0x0000000030000010)
+R [1a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1a] END (0x0000000001ba8140) (0x0000000030000010)
+R [1b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1b] END (0x0000000001ba8140) (0x0000000030000010)
+R [1c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1c] END (0x0000000001ba8140) (0x0000000030000010)
+R [1d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1d] END (0x0000000001ba8140) (0x0000000030000010)
+R [1e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1e] END (0x0000000001ba8140) (0x0000000030000010)
+R [1f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1f] END (0x0000000001ba8140) (0x0000000030000010)
+R [20] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [20] END (0x0000000001ba8140) (0x0000000030000010)
+R [21] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [21] END (0x0000000001ba8140) (0x0000000030000010)
+R [22] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [22] END (0x0000000001ab3f00) (0x0000000030000010)
+R [23] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [23] END (0x0000000001ba8140) (0x0000000030000010)
+R [24] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [24] END (0x0000000001ba8140) (0x0000000030000010)
+R [25] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [25] END (0x0000000001ba8140) (0x0000000030000010)
+R [26] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [26] END (0x0000000001ba8140) (0x0000000030000010)
+R [27] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [27] END (0x0000000001ba8140) (0x0000000030000010)
+R [28] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [28] END (0x0000000001ba8140) (0x0000000030000010)
+R [29] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [29] END (0x0000000001ba8140) (0x0000000030000010)
+R [2a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2a] END (0x0000000001ba8140) (0x0000000030000010)
+R [2b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2b] END (0x0000000001ba8140) (0x0000000030000010)
+R [2c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2c] END (0x0000000001ba8140) (0x0000000030000010)
+R [2d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2d] END (0x0000000001ba8140) (0x0000000030000010)
+R [2e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2e] END (0x0000000001ba8140) (0x0000000030000010)
+R [2f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2f] END (0x0000000001ba8140) (0x0000000030000010)
+R [30] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [30] END (0x0000000001ab3f00) (0x0000000030000010)
+R [31] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [31] END (0x0000000001ba8140) (0x0000000030000010)
+R [32] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [32] END (0x0000000001ba8140) (0x0000000030000010)
+R [33] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [33] END (0x0000000001ba8140) (0x0000000030000010)
+R [34] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [34] END (0x0000000001ba8140) (0x0000000030000010)
+R [35] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [35] END (0x0000000001ab3f00) (0x0000000030000010)
+R [36] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [36] END (0x0000000001ba8140) (0x0000000030000010)
+R [37] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [37] END (0x0000000001ba8140) (0x0000000030000010)
+R [38] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [38] END (0x0000000001ba8140) (0x0000000030000010)
+R [39] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [39] END (0x0000000001ba8140) (0x0000000030000010)
+R [3a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3a] END (0x0000000001ba8140) (0x0000000030000010)
+R [3b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3b] END (0x0000000001ba8140) (0x0000000030000010)
+R [3c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3c] END (0x0000000001ba8140) (0x0000000030000010)
+R [3d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3d] END (0x0000000001ba8140) (0x0000000030000010)
+R [3e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3e] END (0x0000000001ba8140) (0x0000000030000010)
+R [3f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3f] END (0x0000000001ba8140) (0x0000000030000010)
+R [40] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [40] END (0x0000000001ba8140) (0x0000000030000010)
+R [41] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [41] END (0x0000000001ba8140) (0x0000000030000010)
+R [42] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [42] END (0x0000000001ba8140) (0x0000000030000010)
+R [43] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [43] END (0x0000000001ab3f00) (0x0000000030000010)
+R [44] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [44] END (0x0000000001ba8140) (0x0000000030000010)
+R [45] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [45] END (0x0000000001ba8140) (0x0000000030000010)
+R [46] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [46] END (0x0000000001ba8140) (0x0000000030000010)
+R [47] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [47] END (0x0000000001ba8140) (0x0000000030000010)
+R [48] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [48] END (0x0000000001ba8140) (0x0000000030000010)
+R [49] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [49] END (0x0000000001ba8140) (0x0000000030000010)
+R [4a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4a] END (0x0000000001ba8140) (0x0000000030000010)
+R [4b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4b] END (0x0000000001ba8140) (0x0000000030000010)
+R [4c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4c] END (0x0000000001ba8140) (0x0000000030000010)
+R [4d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4d] END (0x0000000001ba8140) (0x0000000030000010)
+R [4e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4e] END (0x0000000001ba8140) (0x0000000030000010)
+R [4f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4f] END (0x0000000001ba8140) (0x0000000030000010)
+R [50] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [50] END (0x0000000001ba8140) (0x0000000030000010)
+R [51] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [51] END (0x0000000001ab3f00) (0x0000000030000010)
+R [52] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [52] END (0x0000000001ba8140) (0x0000000030000010)
+R [53] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [53] END (0x0000000001ba8140) (0x0000000030000010)
+R [54] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [54] END (0x0000000001ba8140) (0x0000000030000010)
+R [55] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [55] END (0x0000000001ba8140) (0x0000000030000010)
+R [56] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [56] END (0x0000000001ba8140) (0x0000000030000010)
+R [57] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [57] END (0x0000000001ba8140) (0x0000000030000010)
+R [58] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [58] END (0x0000000001ba8140) (0x0000000030000010)
+R [59] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [59] END (0x0000000001ba8140) (0x0000000030000010)
+R [5a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5a] END (0x0000000001ba8140) (0x0000000030000010)
+R [5b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5b] END (0x0000000001ba8140) (0x0000000030000010)
+R [5c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5c] END (0x0000000001ba8140) (0x0000000030000010)
+R [5d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5d] END (0x0000000001ba8140) (0x0000000030000010)
+R [5e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5e] END (0x0000000001ba8140) (0x0000000030000010)
+R [5f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5f] END (0x0000000001ab3f00) (0x0000000030000010)
+R [60] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [60] END (0x0000000001ba8140) (0x0000000030000010)
+R [61] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [61] END (0x0000000001ba8140) (0x0000000030000010)
+R [62] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [62] END (0x0000000001ba8140) (0x0000000030000010)
+R [63] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [63] END (0x0000000001ba8140) (0x0000000030000010)
+A [GRAIN128A] END
+A [TRIVIUM] BEGIN
+R [00] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [00] END (0x0000000000000000) (0x0000000030000010)
+R [01] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [01] END (0x0000000000000000) (0x0000000030000010)
+R [02] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [02] END (0x0000000000000000) (0x0000000030000010)
+R [03] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [03] END (0x0000000000000000) (0x0000000030000010)
+R [04] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [04] END (0x0000000000000000) (0x0000000030000010)
+R [05] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [05] END (0x0000000000000000) (0x0000000030000010)
+R [06] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [06] END (0x0000000000000000) (0x0000000030000010)
+R [07] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [07] END (0x0000000000000000) (0x0000000030000010)
+R [08] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [08] END (0x0000000000000000) (0x0000000030000010)
+R [09] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [09] END (0x0000000000000000) (0x0000000030000010)
+R [0a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0a] END (0x0000000000000000) (0x0000000030000010)
+R [0b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0b] END (0x00000000000f4240) (0x0000000030000010)
+R [0c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0c] END (0x00000000000f4240) (0x0000000030000010)
+R [0d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0d] END (0x0000000000000000) (0x0000000030000010)
+R [0e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0e] END (0x0000000000000000) (0x0000000030000010)
+R [0f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0f] END (0x0000000000000000) (0x0000000030000010)
+R [10] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [10] END (0x0000000000000000) (0x0000000030000010)
+R [11] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [11] END (0x0000000000000000) (0x0000000030000010)
+R [12] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [12] END (0x0000000000000000) (0x0000000030000010)
+R [13] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [13] END (0x0000000000000000) (0x0000000030000010)
+R [14] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [14] END (0x0000000000000000) (0x0000000030000010)
+R [15] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [15] END (0x0000000000000000) (0x0000000030000010)
+R [16] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [16] END (0x0000000000000000) (0x0000000030000010)
+R [17] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [17] END (0x0000000000000000) (0x0000000030000010)
+R [18] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [18] END (0x0000000000000000) (0x0000000030000010)
+R [19] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [19] END (0x0000000000000000) (0x0000000030000010)
+R [1a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1a] END (0x0000000000000000) (0x0000000030000010)
+R [1b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1b] END (0x00000000000f4240) (0x0000000030000010)
+R [1c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1c] END (0x00000000000f4240) (0x0000000030000010)
+R [1d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1d] END (0x0000000000000000) (0x0000000030000010)
+R [1e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1e] END (0x0000000000000000) (0x0000000030000010)
+R [1f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1f] END (0x0000000000000000) (0x0000000030000010)
+R [20] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [20] END (0x0000000000000000) (0x0000000030000010)
+R [21] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [21] END (0x0000000000000000) (0x0000000030000010)
+R [22] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [22] END (0x0000000000000000) (0x0000000030000010)
+R [23] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [23] END (0x0000000000000000) (0x0000000030000010)
+R [24] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [24] END (0x0000000000000000) (0x0000000030000010)
+R [25] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [25] END (0x0000000000000000) (0x0000000030000010)
+R [26] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [26] END (0x0000000000000000) (0x0000000030000010)
+R [27] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [27] END (0x0000000000000000) (0x0000000030000010)
+R [28] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [28] END (0x0000000000000000) (0x0000000030000010)
+R [29] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [29] END (0x0000000000000000) (0x0000000030000010)
+R [2a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2a] END (0x0000000000000000) (0x0000000030000010)
+R [2b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2b] END (0x00000000000f4240) (0x0000000030000010)
+R [2c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2c] END (0x00000000000f4240) (0x0000000030000010)
+R [2d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2d] END (0x0000000000000000) (0x0000000030000010)
+R [2e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2e] END (0x0000000000000000) (0x0000000030000010)
+R [2f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2f] END (0x0000000000000000) (0x0000000030000010)
+R [30] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [30] END (0x0000000000000000) (0x0000000030000010)
+R [31] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [31] END (0x0000000000000000) (0x0000000030000010)
+R [32] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [32] END (0x0000000000000000) (0x0000000030000010)
+R [33] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [33] END (0x0000000000000000) (0x0000000030000010)
+R [34] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [34] END (0x0000000000000000) (0x0000000030000010)
+R [35] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [35] END (0x0000000000000000) (0x0000000030000010)
+R [36] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [36] END (0x0000000000000000) (0x0000000030000010)
+R [37] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [37] END (0x0000000000000000) (0x0000000030000010)
+R [38] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [38] END (0x0000000000000000) (0x0000000030000010)
+R [39] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [39] END (0x0000000000000000) (0x0000000030000010)
+R [3a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3a] END (0x0000000000000000) (0x0000000030000010)
+R [3b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3b] END (0x00000000000f4240) (0x0000000030000010)
+R [3c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3c] END (0x00000000000f4240) (0x0000000030000010)
+R [3d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3d] END (0x0000000000000000) (0x0000000030000010)
+R [3e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3e] END (0x0000000000000000) (0x0000000030000010)
+R [3f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3f] END (0x0000000000000000) (0x0000000030000010)
+R [40] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [40] END (0x0000000000000000) (0x0000000030000010)
+R [41] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [41] END (0x0000000000000000) (0x0000000030000010)
+R [42] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [42] END (0x0000000000000000) (0x0000000030000010)
+R [43] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [43] END (0x0000000000000000) (0x0000000030000010)
+R [44] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [44] END (0x0000000000000000) (0x0000000030000010)
+R [45] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [45] END (0x0000000000000000) (0x0000000030000010)
+R [46] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [46] END (0x0000000000000000) (0x0000000030000010)
+R [47] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [47] END (0x0000000000000000) (0x0000000030000010)
+R [48] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [48] END (0x0000000000000000) (0x0000000030000010)
+R [49] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [49] END (0x0000000000000000) (0x0000000030000010)
+R [4a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4a] END (0x0000000000000000) (0x0000000030000010)
+R [4b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4b] END (0x00000000000f4240) (0x0000000030000010)
+R [4c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4c] END (0x00000000000f4240) (0x0000000030000010)
+R [4d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4d] END (0x0000000000000000) (0x0000000030000010)
+R [4e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4e] END (0x0000000000000000) (0x0000000030000010)
+R [4f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4f] END (0x0000000000000000) (0x0000000030000010)
+R [50] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [50] END (0x0000000000000000) (0x0000000030000010)
+R [51] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [51] END (0x0000000000000000) (0x0000000030000010)
+R [52] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [52] END (0x0000000000000000) (0x0000000030000010)
+R [53] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [53] END (0x0000000000000000) (0x0000000030000010)
+R [54] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [54] END (0x0000000000000000) (0x0000000030000010)
+R [55] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [55] END (0x0000000000000000) (0x0000000030000010)
+R [56] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [56] END (0x0000000000000000) (0x0000000030000010)
+R [57] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [57] END (0x0000000000000000) (0x0000000030000010)
+R [58] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [58] END (0x0000000000000000) (0x0000000030000010)
+R [59] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [59] END (0x0000000000000000) (0x0000000030000010)
+R [5a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5a] END (0x0000000000000000) (0x0000000030000010)
+R [5b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5b] END (0x0000000000000000) (0x0000000030000010)
+R [5c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5c] END (0x00000000000f4240) (0x0000000030000010)
+R [5d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5d] END (0x00000000000f4240) (0x0000000030000010)
+R [5e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5e] END (0x0000000000000000) (0x0000000030000010)
+R [5f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5f] END (0x0000000000000000) (0x0000000030000010)
+R [60] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [60] END (0x0000000000000000) (0x0000000030000010)
+R [61] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [61] END (0x0000000000000000) (0x0000000030000010)
+R [62] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [62] END (0x0000000000000000) (0x0000000030000010)
+R [63] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [63] END (0x0000000000000000) (0x0000000030000010)
+A [TRIVIUM] END
+F [benchmark_sc_algorithms] END
+----------------------------------------------------
+SC BENCHMARK
+----------------------------------------------------
+BLOCK LENGTH: 256, ROUNDS: 100
+----------------------------------------------------
+  CHACHA20:
+    Avg time (nsec) of execution: 0x000000000008b824
+    Avg no. of cycles: 0x0000000000005da8
+----------------------------------------------------
+  GRAIN128A:
+    Avg time (nsec) of execution: 0x0000000001ba072c
+    Avg no. of cycles: 0x00000000003089fc
+----------------------------------------------------
+  TRIVIUM:
+    Avg time (nsec) of execution: 0x0000000000002dc6
+    Avg no. of cycles: 0x00000000000032a1
+
+F [benchmark_sc_algorithms] BEGIN
+A [CHACHA20] BEGIN
+R [00] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [00] END (0x00000000000f4240) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [01] END (0x0000000000000000) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [02] END (0x00000000000f4240) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [03] END (0x0000000000000000) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [04] END (0x00000000000f4240) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [05] END (0x0000000000000000) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [06] END (0x00000000000f4240) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [07] END (0x0000000000000000) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [08] END (0x00000000000f4240) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [09] END (0x0000000000000000) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0a] END (0x0000000000000000) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0c] END (0x0000000000000000) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0e] END (0x0000000000000000) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [10] END (0x0000000000000000) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [11] END (0x00000000000f4240) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [12] END (0x0000000000000000) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [13] END (0x00000000000f4240) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [14] END (0x0000000000000000) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [15] END (0x0000000000000000) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [16] END (0x0000000000000000) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [17] END (0x0000000000000000) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [18] END (0x00000000000f4240) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [19] END (0x0000000000000000) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1b] END (0x0000000000000000) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1d] END (0x0000000000000000) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1f] END (0x0000000000000000) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [20] END (0x00000000000f4240) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [21] END (0x0000000000000000) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [22] END (0x0000000000000000) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [23] END (0x0000000000000000) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [24] END (0x0000000000000000) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [25] END (0x00000000000f4240) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [26] END (0x0000000000000000) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [27] END (0x00000000000f4240) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [28] END (0x0000000000000000) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [29] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2a] END (0x0000000000000000) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2c] END (0x0000000000000000) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2e] END (0x0000000000000000) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2f] END (0x0000000000000000) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [30] END (0x0000000000000000) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [31] END (0x0000000000000000) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [32] END (0x00000000000f4240) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [33] END (0x0000000000000000) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [34] END (0x00000000000f4240) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [35] END (0x0000000000000000) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [36] END (0x00000000000f4240) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [37] END (0x0000000000000000) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [38] END (0x00000000000f4240) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [39] END (0x0000000000000000) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3b] END (0x0000000000000000) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3c] END (0x0000000000000000) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3e] END (0x0000000000000000) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [40] END (0x0000000000000000) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [41] END (0x00000000000f4240) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [42] END (0x0000000000000000) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [43] END (0x00000000000f4240) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [44] END (0x0000000000000000) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [45] END (0x00000000000f4240) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [46] END (0x0000000000000000) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [47] END (0x00000000000f4240) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [48] END (0x0000000000000000) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [49] END (0x0000000000000000) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4b] END (0x0000000000000000) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4d] END (0x0000000000000000) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4f] END (0x0000000000000000) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [50] END (0x00000000000f4240) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [51] END (0x0000000000000000) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [52] END (0x00000000000f4240) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [53] END (0x0000000000000000) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [54] END (0x0000000000000000) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [55] END (0x0000000000000000) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [56] END (0x0000000000000000) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [57] END (0x00000000000f4240) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [58] END (0x0000000000000000) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [59] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5a] END (0x0000000000000000) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5c] END (0x0000000000000000) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5e] END (0x0000000000000000) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [60] END (0x0000000000000000) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [61] END (0x0000000000000000) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [62] END (0x0000000000000000) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [63] END (0x0000000000000000) (0x000000000c0090a9)
+A [CHACHA20] END
+A [GRAIN128A] BEGIN
+R [00] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [00] END (0x000000000365c040) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [01] END (0x000000000365c040) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [02] END (0x000000000365c040) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [03] END (0x000000000365c040) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [04] END (0x000000000365c040) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [05] END (0x000000000365c040) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [06] END (0x000000000365c040) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [07] END (0x000000000365c040) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [08] END (0x000000000365c040) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [09] END (0x000000000365c040) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0a] END (0x000000000365c040) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0b] END (0x000000000365c040) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0c] END (0x000000000365c040) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0d] END (0x000000000365c040) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0e] END (0x000000000365c040) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0f] END (0x000000000365c040) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [10] END (0x000000000365c040) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [11] END (0x000000000365c040) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [12] END (0x000000000365c040) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [13] END (0x000000000365c040) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [14] END (0x000000000365c040) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [15] END (0x000000000365c040) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [16] END (0x000000000365c040) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [17] END (0x000000000365c040) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [18] END (0x000000000365c040) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [19] END (0x000000000365c040) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1a] END (0x000000000365c040) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1b] END (0x000000000365c040) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1c] END (0x000000000365c040) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1d] END (0x000000000365c040) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1e] END (0x000000000365c040) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1f] END (0x000000000365c040) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [20] END (0x000000000365c040) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [21] END (0x000000000365c040) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [22] END (0x000000000365c040) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [23] END (0x000000000365c040) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [24] END (0x000000000365c040) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [25] END (0x000000000365c040) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [26] END (0x000000000365c040) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [27] END (0x000000000365c040) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [28] END (0x000000000365c040) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [29] END (0x000000000365c040) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2a] END (0xffffffff0365c040) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2b] END (0x000000000365c040) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2c] END (0x000000000365c040) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2d] END (0x000000000365c040) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2e] END (0x000000000365c040) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2f] END (0x000000000365c040) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [30] END (0x000000000365c040) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [31] END (0x000000000365c040) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [32] END (0x000000000365c040) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [33] END (0x000000000365c040) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [34] END (0x000000000365c040) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [35] END (0x000000000365c040) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [36] END (0x000000000365c040) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [37] END (0x000000000365c040) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [38] END (0x000000000365c040) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [39] END (0x000000000365c040) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3a] END (0x000000000365c040) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3b] END (0x000000000365c040) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3c] END (0x000000000365c040) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3d] END (0x000000000365c040) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3e] END (0x000000000365c040) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3f] END (0x000000000365c040) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [40] END (0x0000000003567e00) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [41] END (0x000000000365c040) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [42] END (0x000000000365c040) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [43] END (0x000000000365c040) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [44] END (0x0000000003567e00) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [45] END (0x000000000365c040) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [46] END (0x000000000365c040) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [47] END (0x000000000365c040) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [48] END (0x0000000003567e00) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [49] END (0x000000000365c040) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4a] END (0x000000000365c040) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4b] END (0x000000000365c040) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4c] END (0x0000000003567e00) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4d] END (0x000000000365c040) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4e] END (0x000000000365c040) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4f] END (0x000000000365c040) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [50] END (0x0000000003567e00) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [51] END (0x000000000365c040) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [52] END (0x000000000365c040) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [53] END (0x000000000365c040) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [54] END (0x0000000003567e00) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [55] END (0x000000000365c040) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [56] END (0x000000000365c040) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [57] END (0x000000000365c040) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [58] END (0x0000000003567e00) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [59] END (0x000000000365c040) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5a] END (0x000000000365c040) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5b] END (0x000000000365c040) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5c] END (0x0000000003567e00) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5d] END (0x000000000365c040) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5e] END (0x000000000365c040) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5f] END (0x000000000365c040) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [60] END (0x0000000003567e00) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [61] END (0x000000000365c040) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [62] END (0x000000000365c040) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [63] END (0x000000000365c040) (0x000000000c0090a9)
+A [GRAIN128A] END
+A [TRIVIUM] BEGIN
+R [00] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [00] END (0x0000000000000000) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [01] END (0x0000000000000000) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [02] END (0x0000000000000000) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [03] END (0x0000000000000000) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [04] END (0x0000000000000000) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [05] END (0x00000000000f4240) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [06] END (0x0000000000000000) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [07] END (0x0000000000000000) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [08] END (0x0000000000000000) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [09] END (0x0000000000000000) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0a] END (0x0000000000000000) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0b] END (0x0000000000000000) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0d] END (0x0000000000000000) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0e] END (0x0000000000000000) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0f] END (0x0000000000000000) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [10] END (0x0000000000000000) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [11] END (0x0000000000000000) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [12] END (0x00000000000f4240) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [13] END (0x00000000000f4240) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [14] END (0x0000000000000000) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [15] END (0x0000000000000000) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [16] END (0x0000000000000000) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [17] END (0x0000000000000000) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [18] END (0x0000000000000000) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [19] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1b] END (0x0000000000000000) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1c] END (0x0000000000000000) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1d] END (0x0000000000000000) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1e] END (0x0000000000000000) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1f] END (0x0000000000000000) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [20] END (0x00000000000f4240) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [21] END (0x00000000000f4240) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [22] END (0x0000000000000000) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [23] END (0x0000000000000000) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [24] END (0x0000000000000000) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [25] END (0x0000000000000000) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [26] END (0x0000000000000000) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [27] END (0x00000000000f4240) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [28] END (0x00000000000f4240) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [29] END (0x0000000000000000) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2a] END (0x0000000000000000) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2b] END (0x0000000000000000) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2c] END (0x0000000000000000) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2d] END (0x0000000000000000) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2f] END (0x0000000000000000) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [30] END (0x0000000000000000) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [31] END (0x0000000000000000) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [32] END (0x0000000000000000) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [33] END (0x0000000000000000) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [34] END (0x0000000000000000) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [35] END (0x00000000000f4240) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [36] END (0x0000000000000000) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [37] END (0x0000000000000000) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [38] END (0x0000000000000000) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [39] END (0x0000000000000000) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3a] END (0x0000000000000000) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3b] END (0x0000000000000000) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3d] END (0x0000000000000000) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3e] END (0x0000000000000000) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3f] END (0x0000000000000000) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [40] END (0x0000000000000000) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [41] END (0x0000000000000000) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [42] END (0x0000000000000000) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [43] END (0x00000000000f4240) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [44] END (0x0000000000000000) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [45] END (0x0000000000000000) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [46] END (0x0000000000000000) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [47] END (0x0000000000000000) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [48] END (0x0000000000000000) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [49] END (0x0000000000000000) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4b] END (0x0000000000000000) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4c] END (0x0000000000000000) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4d] END (0x0000000000000000) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4e] END (0x0000000000000000) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4f] END (0x0000000000000000) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [50] END (0x0000000000000000) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [51] END (0x00000000000f4240) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [52] END (0x0000000000000000) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [53] END (0x0000000000000000) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [54] END (0x0000000000000000) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [55] END (0x0000000000000000) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [56] END (0x0000000000000000) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [57] END (0x0000000000000000) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [58] END (0x00000000000f4240) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [59] END (0x0000000000000000) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5a] END (0x0000000000000000) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5b] END (0x0000000000000000) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5c] END (0x0000000000000000) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5d] END (0x0000000000000000) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [60] END (0x0000000000000000) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [61] END (0x0000000000000000) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [62] END (0x0000000000000000) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [63] END (0x0000000000000000) (0x000000000c0090a9)
+A [TRIVIUM] END
+F [benchmark_sc_algorithms] END
+----------------------------------------------------
+SC BENCHMARK
+----------------------------------------------------
+BLOCK LENGTH: 512, ROUNDS: 100
+----------------------------------------------------
+  CHACHA20:
+    Avg time (nsec) of execution: 0x000000000000a29f
+    Avg no. of cycles: 0x000000000000b398
+----------------------------------------------------
+  GRAIN128A:
+    Avg time (nsec) of execution: 0x000000000364bc15
+    Avg no. of cycles: 0x00000000005f9858
+----------------------------------------------------
+  TRIVIUM:
+    Avg time (nsec) of execution: 0x000000000000b811
+    Avg no. of cycles: 0x0000000000005674
+
+F [benchmark_sc_algorithms] BEGIN
+A [CHACHA20] BEGIN
+R [00] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [00] END (0x00000000000f4240) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [01] END (0x00000000000f4240) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [02] END (0x0000000000000000) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [03] END (0x0000000000000000) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [04] END (0x0000000000000000) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [05] END (0x00000000000f4240) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [06] END (0x00000000000f4240) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [07] END (0x00000000000f4240) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [08] END (0x00000000000f4240) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [09] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [10] END (0x00000000000f4240) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [11] END (0x00000000000f4240) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [12] END (0x00000000000f4240) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [13] END (0x0000000000000000) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [14] END (0x0000000000000000) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [15] END (0x0000000000000000) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [16] END (0x00000000000f4240) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [17] END (0x00000000000f4240) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [18] END (0x00000000000f4240) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [19] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [20] END (0x00000000000f4240) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [21] END (0x00000000000f4240) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [22] END (0x00000000000f4240) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [23] END (0x00000000000f4240) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [24] END (0x00000000000f4240) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [25] END (0x0000000000000000) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [26] END (0x0000000000000000) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [27] END (0x0000000000000000) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [28] END (0x00000000000f4240) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [29] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [30] END (0x00000000000f4240) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [31] END (0x00000000000f4240) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [32] END (0x00000000000f4240) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [33] END (0x00000000000f4240) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [34] END (0x00000000000f4240) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [35] END (0x00000000000f4240) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [36] END (0x00000000000f4240) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [37] END (0x0000000000000000) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [38] END (0x0000000000000000) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [39] END (0x0000000000000000) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3a] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [40] END (0x00000000000f4240) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [41] END (0x00000000000f4240) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [42] END (0x00000000000f4240) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [43] END (0x00000000000f4240) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [44] END (0x00000000000f4240) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [45] END (0x00000000000f4240) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [46] END (0x00000000000f4240) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [47] END (0x00000000000f4240) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [48] END (0x0000000000000000) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [49] END (0x0000000000000000) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4a] END (0x0000000000000000) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4b] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [50] END (0x00000000000f4240) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [51] END (0x00000000000f4240) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [52] END (0x00000000000f4240) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [53] END (0x00000000000f4240) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [54] END (0x00000000000f4240) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [55] END (0x00000000000f4240) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [56] END (0x00000000000f4240) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [57] END (0x00000000000f4240) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [58] END (0x00000000000f4240) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [59] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5a] END (0x0000000000000000) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5b] END (0x0000000000000000) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5c] END (0x0000000000000000) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5d] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5e] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [60] END (0x00000000000f4240) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [61] END (0x00000000000f4240) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [62] END (0x00000000000f4240) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [63] END (0x00000000000f4240) (0x000000000c0090a9)
+A [CHACHA20] END
+A [GRAIN128A] BEGIN
+R [00] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [00] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [01] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [02] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [03] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [04] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [05] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [06] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [07] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [08] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [09] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0a] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0b] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0c] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0d] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0e] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0f] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [10] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [11] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [12] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [13] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [14] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [15] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [16] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [17] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [18] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [19] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1a] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1b] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1c] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1d] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1e] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1f] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [20] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [21] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [22] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [23] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [24] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [25] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [26] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [27] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [28] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [29] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2a] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2b] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2c] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2d] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2e] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2f] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [30] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [31] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [32] END (0xffffffff06bc3e40) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [33] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [34] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [35] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [36] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [37] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [38] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [39] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3a] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3b] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3c] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3d] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3e] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3f] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [40] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [41] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [42] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [43] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [44] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [45] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [46] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [47] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [48] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [49] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4a] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4b] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4c] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4d] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4e] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4f] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [50] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [51] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [52] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [53] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [54] END (0xffffffff06bc3e40) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [55] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [56] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [57] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [58] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [59] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5a] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5b] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5c] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5d] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5e] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5f] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [60] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [61] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [62] END (0x0000000006bc3e40) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [63] END (0x0000000006bc3e40) (0x000000000c0090a9)
+A [GRAIN128A] END
+A [TRIVIUM] BEGIN
+R [00] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [00] END (0x0000000000000000) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [01] END (0x0000000000000000) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [02] END (0x00000000000f4240) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [03] END (0x0000000000000000) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [04] END (0x0000000000000000) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [05] END (0x00000000000f4240) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [06] END (0x00000000000f4240) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [07] END (0x0000000000000000) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [08] END (0x0000000000000000) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [09] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0a] END (0x0000000000000000) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0b] END (0x0000000000000000) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0d] END (0x0000000000000000) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0e] END (0x0000000000000000) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [10] END (0x0000000000000000) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [11] END (0x0000000000000000) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [12] END (0x00000000000f4240) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [13] END (0x0000000000000000) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [14] END (0x0000000000000000) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [15] END (0x0000000000000000) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [16] END (0x00000000000f4240) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [17] END (0x0000000000000000) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [18] END (0x0000000000000000) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [19] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1a] END (0x0000000000000000) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1b] END (0x0000000000000000) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1d] END (0x0000000000000000) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1e] END (0x0000000000000000) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [20] END (0x0000000000000000) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [21] END (0x0000000000000000) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [22] END (0x00000000000f4240) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [23] END (0x00000000000f4240) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [24] END (0x0000000000000000) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [25] END (0x0000000000000000) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [26] END (0x00000000000f4240) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [27] END (0x0000000000000000) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [28] END (0x0000000000000000) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [29] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2a] END (0x0000000000000000) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2b] END (0x0000000000000000) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2d] END (0x0000000000000000) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2e] END (0x0000000000000000) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [30] END (0x0000000000000000) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [31] END (0x0000000000000000) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [32] END (0x00000000000f4240) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [33] END (0x00000000000f4240) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [34] END (0x0000000000000000) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [35] END (0x0000000000000000) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [36] END (0x00000000000f4240) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [37] END (0x0000000000000000) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [38] END (0x0000000000000000) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [39] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3a] END (0x0000000000000000) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3b] END (0x0000000000000000) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3d] END (0x0000000000000000) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3e] END (0x0000000000000000) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [40] END (0x00000000000f4240) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [41] END (0x0000000000000000) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [42] END (0x0000000000000000) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [43] END (0x00000000000f4240) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [44] END (0x0000000000000000) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [45] END (0x0000000000000000) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [46] END (0x00000000000f4240) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [47] END (0x0000000000000000) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [48] END (0x0000000000000000) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [49] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4a] END (0x0000000000000000) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4b] END (0x0000000000000000) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4d] END (0x0000000000000000) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4e] END (0x0000000000000000) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [50] END (0x00000000000f4240) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [51] END (0x0000000000000000) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [52] END (0x0000000000000000) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [53] END (0x00000000000f4240) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [54] END (0x0000000000000000) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [55] END (0x0000000000000000) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [56] END (0x00000000000f4240) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [57] END (0x0000000000000000) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [58] END (0x0000000000000000) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [59] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5a] END (0x0000000000000000) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5b] END (0x0000000000000000) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5c] END (0x00000000000f4240) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5d] END (0x0000000000000000) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5e] END (0x0000000000000000) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5f] END (0x00000000000f4240) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [60] END (0x00000000000f4240) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [61] END (0x0000000000000000) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [62] END (0x0000000000000000) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [63] END (0x00000000000f4240) (0x000000000c0090a9)
+A [TRIVIUM] END
+F [benchmark_sc_algorithms] END
+----------------------------------------------------
+SC BENCHMARK
+----------------------------------------------------
+BLOCK LENGTH: 1024, ROUNDS: 100
+----------------------------------------------------
+  CHACHA20:
+    Avg time (nsec) of execution: 0x00000000000f278c
+    Avg no. of cycles: 0x000000000001618c
+----------------------------------------------------
+  GRAIN128A:
+    Avg time (nsec) of execution: 0x0001000006bb7e3f
+    Avg no. of cycles: 0x0000000000bdb501
+----------------------------------------------------
+  TRIVIUM:
+    Avg time (nsec) of execution: 0x00000000000920c6
+    Avg no. of cycles: 0x0000000000009df8
+
+F [benchmark_sc_algorithms] BEGIN
+A [CHACHA20] BEGIN
+R [00] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [00] END (0x00000000001e8480) (0x0000000081100000)
+R [01] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [01] END (0x00000000000f4240) (0x0000000081100000)
+R [02] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [02] END (0x00000000001e8480) (0x0000000081100000)
+R [03] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [03] END (0x00000000001e8480) (0x0000000081100000)
+R [04] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [04] END (0x00000000001e8480) (0x0000000081100000)
+R [05] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [05] END (0x00000000000f4240) (0x0000000081100000)
+R [06] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [06] END (0x00000000001e8480) (0x0000000081100000)
+R [07] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [07] END (0x00000000001e8480) (0x0000000081100000)
+R [08] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [08] END (0x00000000001e8480) (0x0000000081100000)
+R [09] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [09] END (0x00000000000f4240) (0x0000000081100000)
+R [0a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0a] END (0x00000000001e8480) (0x0000000081100000)
+R [0b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0b] END (0x00000000001e8480) (0x0000000081100000)
+R [0c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0c] END (0x00000000001e8480) (0x0000000081100000)
+R [0d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0d] END (0x00000000000f4240) (0x0000000081100000)
+R [0e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0e] END (0x00000000001e8480) (0x0000000081100000)
+R [0f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0f] END (0x00000000001e8480) (0x0000000081100000)
+R [10] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [10] END (0x00000000001e8480) (0x0000000081100000)
+R [11] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [11] END (0x00000000000f4240) (0x0000000081100000)
+R [12] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [12] END (0x00000000001e8480) (0x0000000081100000)
+R [13] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [13] END (0x00000000001e8480) (0x0000000081100000)
+R [14] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [14] END (0x00000000001e8480) (0x0000000081100000)
+R [15] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [15] END (0x00000000000f4240) (0x0000000081100000)
+R [16] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [16] END (0x00000000001e8480) (0x0000000081100000)
+R [17] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [17] END (0x00000000001e8480) (0x0000000081100000)
+R [18] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [18] END (0x00000000001e8480) (0x0000000081100000)
+R [19] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [19] END (0x00000000000f4240) (0x0000000081100000)
+R [1a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1a] END (0x00000000001e8480) (0x0000000081100000)
+R [1b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1b] END (0x00000000001e8480) (0x0000000081100000)
+R [1c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1c] END (0x00000000001e8480) (0x0000000081100000)
+R [1d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1d] END (0x00000000000f4240) (0x0000000081100000)
+R [1e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1e] END (0x00000000001e8480) (0x0000000081100000)
+R [1f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1f] END (0x00000000001e8480) (0x0000000081100000)
+R [20] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [20] END (0x00000000001e8480) (0x0000000081100000)
+R [21] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [21] END (0x00000000000f4240) (0x0000000081100000)
+R [22] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [22] END (0x00000000001e8480) (0x0000000081100000)
+R [23] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [23] END (0x00000000001e8480) (0x0000000081100000)
+R [24] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [24] END (0x00000000001e8480) (0x0000000081100000)
+R [25] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [25] END (0x00000000000f4240) (0x0000000081100000)
+R [26] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [26] END (0x00000000001e8480) (0x0000000081100000)
+R [27] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [27] END (0x00000000001e8480) (0x0000000081100000)
+R [28] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [28] END (0x00000000001e8480) (0x0000000081100000)
+R [29] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [29] END (0x00000000000f4240) (0x0000000081100000)
+R [2a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2a] END (0x00000000001e8480) (0x0000000081100000)
+R [2b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2b] END (0x00000000001e8480) (0x0000000081100000)
+R [2c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2c] END (0x00000000001e8480) (0x0000000081100000)
+R [2d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2d] END (0x00000000000f4240) (0x0000000081100000)
+R [2e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2e] END (0x00000000001e8480) (0x0000000081100000)
+R [2f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2f] END (0x00000000001e8480) (0x0000000081100000)
+R [30] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [30] END (0x00000000001e8480) (0x0000000081100000)
+R [31] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [31] END (0x00000000000f4240) (0x0000000081100000)
+R [32] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [32] END (0x00000000000f4240) (0x0000000081100000)
+R [33] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [33] END (0x00000000001e8480) (0x0000000081100000)
+R [34] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [34] END (0x00000000001e8480) (0x0000000081100000)
+R [35] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [35] END (0x00000000000f4240) (0x0000000081100000)
+R [36] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [36] END (0x00000000000f4240) (0x0000000081100000)
+R [37] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [37] END (0x00000000001e8480) (0x0000000081100000)
+R [38] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [38] END (0x00000000001e8480) (0x0000000081100000)
+R [39] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [39] END (0x00000000000f4240) (0x0000000081100000)
+R [3a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3a] END (0x00000000000f4240) (0x0000000081100000)
+R [3b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3b] END (0x00000000001e8480) (0x0000000081100000)
+R [3c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3c] END (0x00000000001e8480) (0x0000000081100000)
+R [3d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3d] END (0x00000000000f4240) (0x0000000081100000)
+R [3e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3e] END (0x00000000000f4240) (0x0000000081100000)
+R [3f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3f] END (0x00000000001e8480) (0x0000000081100000)
+R [40] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [40] END (0x00000000001e8480) (0x0000000081100000)
+R [41] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [41] END (0x00000000000f4240) (0x0000000081100000)
+R [42] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [42] END (0x00000000000f4240) (0x0000000081100000)
+R [43] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [43] END (0x00000000001e8480) (0x0000000081100000)
+R [44] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [44] END (0x00000000001e8480) (0x0000000081100000)
+R [45] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [45] END (0x00000000000f4240) (0x0000000081100000)
+R [46] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [46] END (0x00000000000f4240) (0x0000000081100000)
+R [47] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [47] END (0x00000000001e8480) (0x0000000081100000)
+R [48] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [48] END (0x00000000001e8480) (0x0000000081100000)
+R [49] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [49] END (0x00000000000f4240) (0x0000000081100000)
+R [4a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4a] END (0x00000000000f4240) (0x0000000081100000)
+R [4b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4b] END (0x00000000001e8480) (0x0000000081100000)
+R [4c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4c] END (0x00000000001e8480) (0x0000000081100000)
+R [4d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4d] END (0x00000000000f4240) (0x0000000081100000)
+R [4e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4e] END (0x00000000000f4240) (0x0000000081100000)
+R [4f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4f] END (0x00000000001e8480) (0x0000000081100000)
+R [50] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [50] END (0x00000000001e8480) (0x0000000081100000)
+R [51] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [51] END (0x00000000000f4240) (0x0000000081100000)
+R [52] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [52] END (0x00000000000f4240) (0x0000000081100000)
+R [53] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [53] END (0x00000000001e8480) (0x0000000081100000)
+R [54] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [54] END (0x00000000001e8480) (0x0000000081100000)
+R [55] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [55] END (0x00000000000f4240) (0x0000000081100000)
+R [56] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [56] END (0x00000000000f4240) (0x0000000081100000)
+R [57] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [57] END (0x00000000001e8480) (0x0000000081100000)
+R [58] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [58] END (0x00000000001e8480) (0x0000000081100000)
+R [59] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [59] END (0x00000000000f4240) (0x0000000081100000)
+R [5a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5a] END (0x00000000000f4240) (0x0000000081100000)
+R [5b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5b] END (0x00000000001e8480) (0x0000000081100000)
+R [5c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5c] END (0x00000000001e8480) (0x0000000081100000)
+R [5d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5d] END (0x00000000000f4240) (0x0000000081100000)
+R [5e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5e] END (0x00000000000f4240) (0x0000000081100000)
+R [5f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5f] END (0x00000000001e8480) (0x0000000081100000)
+R [60] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [60] END (0x00000000001e8480) (0x0000000081100000)
+R [61] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [61] END (0x00000000000f4240) (0x0000000081100000)
+R [62] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [62] END (0x00000000000f4240) (0x0000000081100000)
+R [63] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [63] END (0x00000000001e8480) (0x0000000081100000)
+A [CHACHA20] END
+A [GRAIN128A] BEGIN
+R [00] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [00] END (0x000000000d693a40) (0x0000000081100000)
+R [01] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [01] END (0x000000000d693a40) (0x0000000081100000)
+R [02] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [02] END (0x000000000d787c80) (0x0000000081100000)
+R [03] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [03] END (0x000000000d693a40) (0x0000000081100000)
+R [04] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [04] END (0x000000000d787c80) (0x0000000081100000)
+R [05] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [05] END (0x000000000d693a40) (0x0000000081100000)
+R [06] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [06] END (0x000000000d693a40) (0x0000000081100000)
+R [07] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [07] END (0x000000000d693a40) (0x0000000081100000)
+R [08] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [08] END (0x000000000d693a40) (0x0000000081100000)
+R [09] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [09] END (0x000000000d693a40) (0x0000000081100000)
+R [0a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0a] END (0x000000000d693a40) (0x0000000081100000)
+R [0b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0b] END (0x000000000d693a40) (0x0000000081100000)
+R [0c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0c] END (0x000000000d693a40) (0x0000000081100000)
+R [0d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0d] END (0x000000000d693a40) (0x0000000081100000)
+R [0e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0e] END (0x000000000d693a40) (0x0000000081100000)
+R [0f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0f] END (0x000000000d787c80) (0x0000000081100000)
+R [10] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [10] END (0xffffffff0d693a40) (0x0000000081100000)
+R [11] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [11] END (0x000000000d787c80) (0x0000000081100000)
+R [12] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [12] END (0x000000000d693a40) (0x0000000081100000)
+R [13] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [13] END (0x000000000d693a40) (0x0000000081100000)
+R [14] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [14] END (0x000000000d693a40) (0x0000000081100000)
+R [15] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [15] END (0x000000000d693a40) (0x0000000081100000)
+R [16] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [16] END (0x000000000d693a40) (0x0000000081100000)
+R [17] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [17] END (0x000000000d693a40) (0x0000000081100000)
+R [18] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [18] END (0x000000000d693a40) (0x0000000081100000)
+R [19] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [19] END (0x000000000d693a40) (0x0000000081100000)
+R [1a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1a] END (0x000000000d787c80) (0x0000000081100000)
+R [1b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1b] END (0x000000000d693a40) (0x0000000081100000)
+R [1c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1c] END (0x000000000d787c80) (0x0000000081100000)
+R [1d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1d] END (0x000000000d693a40) (0x0000000081100000)
+R [1e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1e] END (0x000000000d693a40) (0x0000000081100000)
+R [1f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1f] END (0x000000000d693a40) (0x0000000081100000)
+R [20] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [20] END (0x000000000d693a40) (0x0000000081100000)
+R [21] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [21] END (0x000000000d693a40) (0x0000000081100000)
+R [22] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [22] END (0xffffffff0d693a40) (0x0000000081100000)
+R [23] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [23] END (0x000000000d693a40) (0x0000000081100000)
+R [24] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [24] END (0x000000000d693a40) (0x0000000081100000)
+R [25] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [25] END (0x000000000d693a40) (0x0000000081100000)
+R [26] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [26] END (0x000000000d693a40) (0x0000000081100000)
+R [27] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [27] END (0x000000000d787c80) (0x0000000081100000)
+R [28] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [28] END (0x000000000d693a40) (0x0000000081100000)
+R [29] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [29] END (0x000000000d787c80) (0x0000000081100000)
+R [2a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2a] END (0x000000000d693a40) (0x0000000081100000)
+R [2b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2b] END (0x000000000d693a40) (0x0000000081100000)
+R [2c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2c] END (0x000000000d693a40) (0x0000000081100000)
+R [2d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2d] END (0x000000000d693a40) (0x0000000081100000)
+R [2e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2e] END (0x000000000d693a40) (0x0000000081100000)
+R [2f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [2f] END (0x000000000d693a40) (0x0000000081100000)
+R [30] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [30] END (0x000000000d693a40) (0x0000000081100000)
+R [31] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [31] END (0x000000000d693a40) (0x0000000081100000)
+R [32] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [32] END (0x000000000d787c80) (0x0000000081100000)
+R [33] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [33] END (0x000000000d693a40) (0x0000000081100000)
+R [34] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [34] END (0xffffffff0d787c80) (0x0000000081100000)
+R [35] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [35] END (0x000000000d693a40) (0x0000000081100000)
+R [36] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [36] END (0x000000000d693a40) (0x0000000081100000)
+R [37] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [37] END (0x000000000d693a40) (0x0000000081100000)
+R [38] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [38] END (0x000000000d693a40) (0x0000000081100000)
+R [39] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [39] END (0x000000000d693a40) (0x0000000081100000)
+R [3a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3a] END (0x000000000d693a40) (0x0000000081100000)
+R [3b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3b] END (0x000000000d693a40) (0x0000000081100000)
+R [3c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3c] END (0x000000000d693a40) (0x0000000081100000)
+R [3d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3d] END (0x000000000d787c80) (0x0000000081100000)
+R [3e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3e] END (0x000000000d693a40) (0x0000000081100000)
+R [3f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [3f] END (0x000000000d787c80) (0x0000000081100000)
+R [40] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [40] END (0x000000000d693a40) (0x0000000081100000)
+R [41] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [41] END (0x000000000d693a40) (0x0000000081100000)
+R [42] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [42] END (0x000000000d693a40) (0x0000000081100000)
+R [43] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [43] END (0x000000000d693a40) (0x0000000081100000)
+R [44] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [44] END (0x000000000d693a40) (0x0000000081100000)
+R [45] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [45] END (0x000000000d693a40) (0x0000000081100000)
+R [46] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [46] END (0x000000000d693a40) (0x0000000081100000)
+R [47] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [47] END (0x000000000d693a40) (0x0000000081100000)
+R [48] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [48] END (0x000000000d693a40) (0x0000000081100000)
+R [49] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [49] END (0x000000000d693a40) (0x0000000081100000)
+R [4a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4a] END (0x000000000d787c80) (0x0000000081100000)
+R [4b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4b] END (0x000000000d693a40) (0x0000000081100000)
+R [4c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4c] END (0x000000000d787c80) (0x0000000081100000)
+R [4d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4d] END (0x000000000d693a40) (0x0000000081100000)
+R [4e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4e] END (0x000000000d693a40) (0x0000000081100000)
+R [4f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [4f] END (0x000000000d693a40) (0x0000000081100000)
+R [50] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [50] END (0x000000000d693a40) (0x0000000081100000)
+R [51] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [51] END (0x000000000d693a40) (0x0000000081100000)
+R [52] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [52] END (0x000000000d693a40) (0x0000000081100000)
+R [53] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [53] END (0x000000000d693a40) (0x0000000081100000)
+R [54] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [54] END (0x000000000d693a40) (0x0000000081100000)
+R [55] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [55] END (0x000000000d787c80) (0x0000000081100000)
+R [56] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [56] END (0x000000000d693a40) (0x0000000081100000)
+R [57] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [57] END (0x000000000d787c80) (0x0000000081100000)
+R [58] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [58] END (0x000000000d693a40) (0x0000000081100000)
+R [59] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [59] END (0xffffffff0d693a40) (0x0000000081100000)
+R [5a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5a] END (0x000000000d693a40) (0x0000000081100000)
+R [5b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5b] END (0x000000000d693a40) (0x0000000081100000)
+R [5c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5c] END (0x000000000d693a40) (0x0000000081100000)
+R [5d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5d] END (0x000000000d693a40) (0x0000000081100000)
+R [5e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5e] END (0x000000000d693a40) (0x0000000081100000)
+R [5f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [5f] END (0x000000000d693a40) (0x0000000081100000)
+R [60] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [60] END (0x000000000d693a40) (0x0000000081100000)
+R [61] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [61] END (0x000000000d693a40) (0x0000000081100000)
+R [62] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [62] END (0x000000000d787c80) (0x0000000081100000)
+R [63] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [63] END (0x000000000d693a40) (0x0000000081100000)
+A [GRAIN128A] END
+A [TRIVIUM] BEGIN
+R [00] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [00] END (0x0000000000000000) (0x0000000081100000)
+R [01] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [01] END (0x00000000000f4240) (0x0000000081100000)
+R [02] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [02] END (0x00000000000f4240) (0x0000000081100000)
+R [03] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [03] END (0x00000000000f4240) (0x0000000081100000)
+R [04] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [04] END (0x00000000000f4240) (0x0000000081100000)
+R [05] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [05] END (0x0000000000000000) (0x0000000081100000)
+R [06] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [06] END (0x00000000000f4240) (0x0000000081100000)
+R [07] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [07] END (0x00000000000f4240) (0x0000000081100000)
+R [08] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [08] END (0x0000000000000000) (0x0000000081100000)
+R [09] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [09] END (0x00000000000f4240) (0x0000000081100000)
+R [0a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0a] END (0x00000000000f4240) (0x0000000081100000)
+R [0b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0b] END (0x0000000000000000) (0x0000000081100000)
+R [0c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0c] END (0x00000000000f4240) (0x0000000081100000)
+R [0d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0d] END (0x00000000000f4240) (0x0000000081100000)
+R [0e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0e] END (0x0000000000000000) (0x0000000081100000)
+R [0f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [0f] END (0x00000000000f4240) (0x0000000081100000)
+R [10] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [10] END (0x00000000000f4240) (0x0000000081100000)
+R [11] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [11] END (0x00000000000f4240) (0x0000000081100000)
+R [12] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [12] END (0x00000000000f4240) (0x0000000081100000)
+R [13] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [13] END (0x0000000000000000) (0x0000000081100000)
+R [14] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [14] END (0x00000000000f4240) (0x0000000081100000)
+R [15] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [15] END (0x00000000000f4240) (0x0000000081100000)
+R [16] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [16] END (0x0000000000000000) (0x0000000081100000)
+R [17] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [17] END (0x00000000000f4240) (0x0000000081100000)
+R [18] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [18] END (0x00000000000f4240) (0x0000000081100000)
+R [19] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [19] END (0x0000000000000000) (0x0000000081100000)
+R [1a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1a] END (0x00000000000f4240) (0x0000000081100000)
+R [1b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1b] END (0x00000000000f4240) (0x0000000081100000)
+R [1c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1c] END (0x0000000000000000) (0x0000000081100000)
+R [1d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1d] END (0x00000000000f4240) (0x0000000081100000)
+R [1e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1e] END (0x00000000000f4240) (0x0000000081100000)
+R [1f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [1f] END (0x00000000000f4240) (0x0000000081100000)
+R [20] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [20] END (0x00000000000f4240) (0x0000000081100000)
+R [21] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [21] END (0x0000000000000000) (0x0000000081100000)
+R [22] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [22] END (0x00000000000f4240) (0x0000000081100000)
+R [23] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [23] END (0x00000000000f4240) (0x0000000081100000)
+R [24] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [24] END (0x0000000000000000) (0x0000000081100000)
+R [25] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [25] END (0x00000000000f4240) (0x0000000081100000)
+R [26] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [26] END (0x00000000000f4240) (0x0000000081100000)
+R [27] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [27] END (0x0000000000000000) (0x0000000081100000)
+R [28] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [28] END (0x00000000000f4240) (0x0000000081100000)
+R [29] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [29] END (0x00000000000f4240) (0x0000000081100000)
+R [2a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2a] END (0x0000000000000000) (0x0000000081100000)
+R [2b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2b] END (0x00000000000f4240) (0x0000000081100000)
+R [2c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2c] END (0x00000000000f4240) (0x0000000081100000)
+R [2d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2d] END (0x00000000000f4240) (0x0000000081100000)
+R [2e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2e] END (0x00000000000f4240) (0x0000000081100000)
+R [2f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [2f] END (0x0000000000000000) (0x0000000081100000)
+R [30] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [30] END (0x00000000000f4240) (0x0000000081100000)
+R [31] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [31] END (0x00000000000f4240) (0x0000000081100000)
+R [32] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [32] END (0x0000000000000000) (0x0000000081100000)
+R [33] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [33] END (0x00000000000f4240) (0x0000000081100000)
+R [34] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [34] END (0x00000000000f4240) (0x0000000081100000)
+R [35] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [35] END (0x0000000000000000) (0x0000000081100000)
+R [36] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [36] END (0x00000000000f4240) (0x0000000081100000)
+R [37] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [37] END (0x00000000000f4240) (0x0000000081100000)
+R [38] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [38] END (0x0000000000000000) (0x0000000081100000)
+R [39] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [39] END (0x00000000000f4240) (0x0000000081100000)
+R [3a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3a] END (0x00000000000f4240) (0x0000000081100000)
+R [3b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3b] END (0x00000000000f4240) (0x0000000081100000)
+R [3c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3c] END (0x00000000000f4240) (0x0000000081100000)
+R [3d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3d] END (0x0000000000000000) (0x0000000081100000)
+R [3e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3e] END (0x00000000000f4240) (0x0000000081100000)
+R [3f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [3f] END (0x00000000000f4240) (0x0000000081100000)
+R [40] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [40] END (0x0000000000000000) (0x0000000081100000)
+R [41] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [41] END (0x00000000000f4240) (0x0000000081100000)
+R [42] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [42] END (0x00000000000f4240) (0x0000000081100000)
+R [43] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [43] END (0x0000000000000000) (0x0000000081100000)
+R [44] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [44] END (0x00000000000f4240) (0x0000000081100000)
+R [45] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [45] END (0x00000000000f4240) (0x0000000081100000)
+R [46] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [46] END (0x0000000000000000) (0x0000000081100000)
+R [47] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [47] END (0x00000000000f4240) (0x0000000081100000)
+R [48] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [48] END (0x00000000000f4240) (0x0000000081100000)
+R [49] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [49] END (0x00000000000f4240) (0x0000000081100000)
+R [4a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4a] END (0x00000000000f4240) (0x0000000081100000)
+R [4b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4b] END (0x0000000000000000) (0x0000000081100000)
+R [4c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4c] END (0x00000000000f4240) (0x0000000081100000)
+R [4d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4d] END (0x00000000000f4240) (0x0000000081100000)
+R [4e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4e] END (0x0000000000000000) (0x0000000081100000)
+R [4f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [4f] END (0x00000000000f4240) (0x0000000081100000)
+R [50] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [50] END (0x00000000000f4240) (0x0000000081100000)
+R [51] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [51] END (0x0000000000000000) (0x0000000081100000)
+R [52] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [52] END (0x00000000000f4240) (0x0000000081100000)
+R [53] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [53] END (0x00000000000f4240) (0x0000000081100000)
+R [54] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [54] END (0x0000000000000000) (0x0000000081100000)
+R [55] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [55] END (0x00000000000f4240) (0x0000000081100000)
+R [56] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [56] END (0x00000000000f4240) (0x0000000081100000)
+R [57] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [57] END (0x00000000000f4240) (0x0000000081100000)
+R [58] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [58] END (0x00000000000f4240) (0x0000000081100000)
+R [59] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [59] END (0x0000000000000000) (0x0000000081100000)
+R [5a] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5a] END (0x00000000000f4240) (0x0000000081100000)
+R [5b] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5b] END (0x00000000000f4240) (0x0000000081100000)
+R [5c] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5c] END (0x0000000000000000) (0x0000000081100000)
+R [5d] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5d] END (0x00000000000f4240) (0x0000000081100000)
+R [5e] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5e] END (0x00000000000f4240) (0x0000000081100000)
+R [5f] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [5f] END (0x0000000000000000) (0x0000000081100000)
+R [60] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [60] END (0x00000000000f4240) (0x0000000081100000)
+R [61] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [61] END (0x00000000000f4240) (0x0000000081100000)
+R [62] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [62] END (0x0000000000000000) (0x0000000081100000)
+R [63] BEGIN
+F [benchmark_trivium_block] BEGIN
+F [benchmark_trivium_block] END
+R [63] END (0x00000000000f4240) (0x0000000081100000)
+A [TRIVIUM] END
+F [benchmark_sc_algorithms] END
+----------------------------------------------------
+SC BENCHMARK
+----------------------------------------------------
+BLOCK LENGTH: 2048, ROUNDS: 100
+----------------------------------------------------
+  CHACHA20:
+    Avg time (nsec) of execution: 0x0000000000186a00
+    Avg no. of cycles: 0x000000000002bd1d
+----------------------------------------------------
+  GRAIN128A:
+    Avg time (nsec) of execution: 0x002000000d4e0b68
+    Avg no. of cycles: 0x000000000179ee92
+----------------------------------------------------
+  TRIVIUM:
+    Avg time (nsec) of execution: 0x00000000000ae662
+    Avg no. of cycles: 0x0000000000012cab
+
+F [benchmark_sc_algorithms] BEGIN
+A [CHACHA20] BEGIN
+R [00] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [00] END (0x00000000003d0900) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [01] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [02] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [03] END (0x00000000003d0900) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [04] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [05] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [06] END (0x00000000003d0900) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [07] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [08] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [09] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0a] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0b] END (0x00000000003d0900) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0c] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0d] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0e] END (0x00000000003d0900) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [0f] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [10] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [11] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [12] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [13] END (0x00000000003d0900) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [14] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [15] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [16] END (0x00000000003d0900) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [17] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [18] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [19] END (0x00000000003d0900) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1a] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1b] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1c] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1d] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [1e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1e] END (0x00000000003d0900) (0x000000000c0090a9)
+R [1f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [1f] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [20] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [20] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [21] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [21] END (0x00000000003d0900) (0x000000000c0090a9)
+R [22] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [22] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [23] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [23] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [24] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [24] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [25] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [25] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [26] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [26] END (0x00000000003d0900) (0x000000000c0090a9)
+R [27] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [27] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [28] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [28] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [29] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [29] END (0x00000000003d0900) (0x000000000c0090a9)
+R [2a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2a] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [2b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2b] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [2c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2c] END (0x00000000003d0900) (0x000000000c0090a9)
+R [2d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2d] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [2e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2e] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [2f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [2f] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [30] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [30] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [31] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [31] END (0x00000000003d0900) (0x000000000c0090a9)
+R [32] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [32] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [33] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [33] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [34] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [34] END (0x00000000003d0900) (0x000000000c0090a9)
+R [35] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [35] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [36] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [36] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [37] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [37] END (0x00000000003d0900) (0x000000000c0090a9)
+R [38] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [38] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [39] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [39] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [3a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3a] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [3b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3b] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [3c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3c] END (0x00000000003d0900) (0x000000000c0090a9)
+R [3d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3d] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [3e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3e] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [3f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [3f] END (0x00000000003d0900) (0x000000000c0090a9)
+R [40] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [40] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [41] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [41] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [42] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [42] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [43] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [43] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [44] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [44] END (0x00000000003d0900) (0x000000000c0090a9)
+R [45] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [45] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [46] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [46] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [47] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [47] END (0x00000000003d0900) (0x000000000c0090a9)
+R [48] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [48] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [49] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [49] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [4a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4a] END (0x00000000003d0900) (0x000000000c0090a9)
+R [4b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4b] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [4c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4c] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [4d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4d] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [4e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4e] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [4f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [4f] END (0x00000000003d0900) (0x000000000c0090a9)
+R [50] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [50] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [51] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [51] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [52] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [52] END (0x00000000003d0900) (0x000000000c0090a9)
+R [53] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [53] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [54] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [54] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [55] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [55] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [56] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [56] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [57] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [57] END (0x00000000003d0900) (0x000000000c0090a9)
+R [58] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [58] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [59] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [59] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [5a] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5a] END (0x00000000003d0900) (0x000000000c0090a9)
+R [5b] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5b] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [5c] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5c] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [5d] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5d] END (0x00000000003d0900) (0x000000000c0090a9)
+R [5e] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5e] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [5f] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [5f] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [60] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [60] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [61] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [61] END (0x00000000002dc6c0) (0x000000000c0090a9)
+R [62] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [62] END (0x00000000003d0900) (0x000000000c0090a9)
+R [63] BEGIN
+F [benchmark_chacha20_block] BEGIN
+F [benchmark_chacha20_block] END
+R [63] END (0x00000000002dc6c0) (0x000000000c0090a9)
+A [CHACHA20] END
+A [GRAIN128A] BEGIN
+R [00] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [00] END (0x000000001ac33240) (0x000000000c0090a9)
+R [01] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [01] END (0x000000001ad27480) (0x000000000c0090a9)
+R [02] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [02] END (0x000000001ac33240) (0x000000000c0090a9)
+R [03] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [03] END (0x000000001ac33240) (0x000000000c0090a9)
+R [04] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [04] END (0x000000001ac33240) (0x000000000c0090a9)
+R [05] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [05] END (0x000000001ad27480) (0x000000000c0090a9)
+R [06] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [06] END (0xffffffff1ac33240) (0x000000000c0090a9)
+R [07] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [07] END (0x000000001ac33240) (0x000000000c0090a9)
+R [08] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [08] END (0x000000001ad27480) (0x000000000c0090a9)
+R [09] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [09] END (0x000000001ad27480) (0x000000000c0090a9)
+R [0a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0a] END (0x000000001ac33240) (0x000000000c0090a9)
+R [0b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0b] END (0x000000001ac33240) (0x000000000c0090a9)
+R [0c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0c] END (0x000000001ad27480) (0x000000000c0090a9)
+R [0d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0d] END (0x000000001ad27480) (0x000000000c0090a9)
+R [0e] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0e] END (0x000000001ac33240) (0x000000000c0090a9)
+R [0f] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [0f] END (0x000000001ac33240) (0x000000000c0090a9)
+R [10] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [10] END (0xffffffff1ad27480) (0x000000000c0090a9)
+R [11] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [11] END (0x000000001ad27480) (0x000000000c0090a9)
+R [12] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [12] END (0x000000001ac33240) (0x000000000c0090a9)
+R [13] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [13] END (0x000000001ac33240) (0x000000000c0090a9)
+R [14] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [14] END (0x000000001ad27480) (0x000000000c0090a9)
+R [15] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [15] END (0x000000001ac33240) (0x000000000c0090a9)
+R [16] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [16] END (0x000000001ac33240) (0x000000000c0090a9)
+R [17] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [17] END (0x000000001ac33240) (0x000000000c0090a9)
+R [18] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [18] END (0x000000001ad27480) (0x000000000c0090a9)
+R [19] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [19] END (0xffffffff1ac33240) (0x000000000c0090a9)
+R [1a] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1a] END (0x000000001ac33240) (0x000000000c0090a9)
+R [1b] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1b] END (0x000000001ad27480) (0x000000000c0090a9)
+R [1c] BEGIN
+F [benchmark_grain128a_block] BEGIN
+F [benchmark_grain128a_block] END
+R [1c] END (0x000000001ad27480) (0x000000000c0090a9)
+R [1d] BEGIN
+F [benchmark_grain128a_block] BEGIN
+Connected.

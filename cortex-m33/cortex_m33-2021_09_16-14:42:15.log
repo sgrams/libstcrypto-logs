@@ -1,0 +1,13 @@
+[../Core/Src/embedded_suite.c] BEGIN
+F [handle_embedded_benchmark_pp_aes256] BEGIN
+Performing AES-XTS 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+F [handle_embedded_benchmark_pp_sha256] BEGIN
+Performing SHA 256 infinite loop!
+Connected.
+Connected.
+
+Disconnected.

@@ -1,0 +1,151 @@
+[../Core/Src/embedded_suite.c] BEGIN
+Performing AES-XTS 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing AES-XTS 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing AES-XTS 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing SHA 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing SHA 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing SHA 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing SHA 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing SHA 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/embedded_suite.c] BEGIN
+Performing SHA 256 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Photon infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Photon infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Photon infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Quark infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Quark infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Quark infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Spongent infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Spongent infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Spongent infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing ChaCha20 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing ChaCha20 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+
+--- SECURE BEGIN ---
+Press button to continue...
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing ChaCha20 infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Grain128a infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Grain128a infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Grain128a infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Trivium infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Trivium infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+[../Core/Src/lstcrypto_suite.c] BEGIN
+Performing Trivium infinite loop!
+
+--- SECURE BEGIN ---
+Press button to continue...
+Connected.
+Connected.
+
+Disconnected.
